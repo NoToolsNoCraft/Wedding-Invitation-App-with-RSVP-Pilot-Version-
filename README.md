@@ -1,10 +1,7 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="./src/assets/images/everlasting-eta.vercel.app_.png" />
-</div>
 
 ## Deployment
 
-This project is deployed at https://everlasting-eta.vercel.app/
+Currently only local
 
 ## Run Locally
 
@@ -29,6 +26,3 @@ If React not working, run these commands:
 
 npm install react react-dom
 npm install -D @types/react @types/react-dom
-
-
-Supabase password: @123Bgmice+
